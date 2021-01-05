@@ -35,4 +35,4 @@ Sites are responsive
    - [View code](https://github.com/bakarfreelancer/quiz-app)
 2. **Weather View** Simpe weather forecast app
    - [View demo](https://weather-view.surge.sh)
-   - [View code](https://bakarfreelancer96/weather-view)
+   - [View code](https://github.com/bakarfreelancer/weather-view)
